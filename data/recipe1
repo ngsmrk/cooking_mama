@@ -1,0 +1,12 @@
+recipe "italian meatballs" do 
+
+	chop "4 spring onions"
+	
+	with "a pan" do
+		heat "some olive oil"
+		fry "a clove of garlic"
+		fry "12 meatballs"
+		add "the spring onions"
+		cook "on a high temperature for 10 minutes"	
+	end
+end
